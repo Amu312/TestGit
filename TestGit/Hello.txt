@@ -1,0 +1,3 @@
+Hello!
+Good Morning.....
+This is Git test file.
