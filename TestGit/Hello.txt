@@ -1,3 +1,7 @@
 Hello!
+<<<<<<< HEAD
 Good afternoon.....
+=======
+Good Afternoon.....
+>>>>>>> branch-2
 This is Git test file.
