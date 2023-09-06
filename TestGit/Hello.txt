@@ -1,7 +1,3 @@
 Hello!
-<<<<<<< HEAD
-Good afternoon.....
-=======
-Good Afternoon.....
->>>>>>> branch-2
+Good Afternoon
 This is Git test file.
