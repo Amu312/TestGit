@@ -1,1 +1,2 @@
 Welcome to the git world!!!
+Are you ready to learn and understand Git.
