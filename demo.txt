@@ -1,10 +1,4 @@
 Welcome to the git world!!!
 Are you ready to learn and understand Git.
-<<<<<<< HEAD
 Hello
 How are you?
-=======
-Hello.
-How are you?
-
->>>>>>> 8b5c5963041af11ec3c20bd378f6118c3db9b233
